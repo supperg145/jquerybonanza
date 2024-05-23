@@ -1,0 +1,19 @@
+.main{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.trycontainer{
+    display: flex;
+    flex-direction: column;
+}
+
+.toggle, .append, .addClassContainer, .hideContainer{
+    display: flex;
+    flex-direction: column;
+}
+
+.differentFont {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
